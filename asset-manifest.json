@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/3Dcone/static/css/main.1fc32246.css",
+    "main.js": "/3Dcone/static/js/main.5137604e.js",
+    "static/js/787.e7a2fea9.chunk.js": "/3Dcone/static/js/787.e7a2fea9.chunk.js",
+    "index.html": "/3Dcone/index.html",
+    "main.1fc32246.css.map": "/3Dcone/static/css/main.1fc32246.css.map",
+    "main.5137604e.js.map": "/3Dcone/static/js/main.5137604e.js.map",
+    "787.e7a2fea9.chunk.js.map": "/3Dcone/static/js/787.e7a2fea9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fc32246.css",
+    "static/js/main.5137604e.js"
+  ]
+}
